@@ -1,2 +1,3 @@
-# dio_desafio_codigo_associando_redes_aplicacoes_praticas
-# dio_desafio_codigo_associando_redes_aplicacoes_praticas
+# DIO - Desafio de Código
+
+## Associando Redes e Aplicações Práticas de Deep Learning com Lógica de Programação
